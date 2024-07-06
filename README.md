@@ -1,2 +1,3 @@
-# PostgreSQL-congiguration
-This repo consist everything about the configuration of PostgreSQL database.
+## PostgreSQL Configuration Guides
+
+This repository contains a collection of markdown files with detailed configurations and best practices for PostgreSQL. Each file covers different aspects of PostgreSQL setup and management, making it a handy reference for developers and database administrators. Whether you're setting up PostgreSQL for the first time or looking to optimize your existing configuration, you'll find useful insights and instructions here.
